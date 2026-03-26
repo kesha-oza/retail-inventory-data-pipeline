@@ -1,0 +1,2 @@
+This project analyzes Walmart retail sales data to identify stockout risk and estimate lost sales using SQL and Power BI. 
+It includes data ingestion, staging, dimensional modeling, analytical SQL views, and an interactive dashboard.
