@@ -2,6 +2,26 @@
 
 An end-to-end data engineering and analytics project using **MySQL** and **Power BI** to analyze Walmart retail sales, simulate inventory coverage, identify stockout risk, and estimate lost sales.
 
+## Dashboard Preview
+
+## Executive Summary
+
+This dashboard provides a high-level overview of business performance by showing total sales, lost sales, stockout count, and average weekly sales. It helps stakeholders quickly understand overall performance and identify areas with potential revenue loss.
+
+<img src="images/executive_summary.png" width="600">
+
+## Trend Analysis
+
+This dashboard analyzes sales trends over time to identify patterns, seasonality, and fluctuations in demand. It helps businesses improve forecasting accuracy and plan inventory more effectively.
+
+<img src="images/trend_analysis.png" width="600">
+
+## Business Insights
+
+This dashboard highlights key insights such as high-demand stores experiencing frequent stockouts and significant lost sales. It provides actionable recommendations to optimize inventory allocation and reduce revenue loss.
+
+<img src="images/business_insights.png" width="600">
+
 ## Project Overview
 
 Retail businesses frequently lose revenue when demand exceeds available inventory.  
