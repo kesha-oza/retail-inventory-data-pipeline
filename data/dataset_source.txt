@@ -1,0 +1,3 @@
+Dataset used: Walmart weekly sales dataset
+Source: Kaggle / classroom-provided dataset
+Note: Raw dataset was imported into MySQL and transformed through staging and dimensional modeling.
